@@ -14,4 +14,4 @@ The data set contains sales, profit and geographical information of Super Store.
 
 
 
-### With the help of the provided data I used Microsoft Power BI to create usefull dashboards.
+### With the help of the provided data I used Microsoft Power BI to create useful dashboards.
